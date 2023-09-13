@@ -1,3 +1,0 @@
-# upgrade pip 
-# other stuff
-
