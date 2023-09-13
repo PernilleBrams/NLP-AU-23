@@ -1,4 +1,8 @@
-# initialize a notebook
+# github setup
+git config --global user.email "pernille@brams.dk"
+git config --global user.name "PernilleBrams (Ucloud)"
+
+# - initialize a notebook
 
 # install ipykernel
 pip install ipykernel
