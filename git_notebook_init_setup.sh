@@ -7,6 +7,9 @@ git config --global user.name "PernilleBrams (Ucloud)"
 # upgrade pip
 pip install --upgrade pip
 
+# source activate
+source ./PernilleHøjlundBrams#8577/NLP-AU-23/venvs/nlp-e23/bin/activate
+
 # install ipykernel
 pip install ipykernel
 
@@ -14,4 +17,4 @@ pip install ipykernel
 python3 -m ipykernel install --user --name=nlp-e23
 
 # install requirements (this doesn't seem to work either because it can't access the files)
-# pip install -r requirements.txt
+pip install -r ./PernilleHøjlundBrams#8577/NLP-AU-23/requirements.txt
