@@ -136,6 +136,10 @@ syllabus/classes/class3/tmp.py
 
 # Solutions to assignments
 solutions/*
+<<<<<<< HEAD
 
 # Ignore venv
 venvs/*
+=======
+requirements.txt
+>>>>>>> 993bfcf520fbb8a2a622e63d6caab3fd9d462781
