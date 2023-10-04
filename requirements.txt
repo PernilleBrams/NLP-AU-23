@@ -84,3 +84,4 @@ wasabi==1.1.2
 wcwidth==0.2.6
 yarl==1.9.2
 zipp==3.17.0
+gensim

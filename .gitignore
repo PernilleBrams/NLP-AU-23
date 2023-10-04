@@ -157,3 +157,6 @@ requirements.txt
 =======
 >>>>>>> 993bfcf520fbb8a2a622e63d6caab3fd9d462781
 >>>>>>> 52b2385dcf938f0437b69e30ef36b7e9fcfda46d
+
+# Ignore venv
+models/*

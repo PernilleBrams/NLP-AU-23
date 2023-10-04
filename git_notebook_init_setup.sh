@@ -1,6 +1,6 @@
 # github setup
 git config --global user.email "pernille@brams.dk"
-git config --global user.name "PernilleBrams (Ucloud)"
+git config --global user.name "PernilleBrams (Ucloud)" # maybe change to PernilleBrams
 
 # - initialize a notebook
 
