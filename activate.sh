@@ -6,4 +6,4 @@ echo Done! Remember changing the kernel in Jupyter.
 pip install --upgrade pip 
 
 # Install requirements
-pip install -r requirements.txt     
+pip install -r /work/NLP-AU-23/requirements.txt     
