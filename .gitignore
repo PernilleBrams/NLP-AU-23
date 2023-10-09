@@ -160,3 +160,6 @@ requirements.txt
 
 # Ignore venv
 models/*
+
+# Ignore new venv
+myenv_nlp23

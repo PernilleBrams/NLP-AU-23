@@ -9,7 +9,7 @@
 # pip install ipykernel
 
 # # tell it that we have the nlp-e23 kernel - pls use (this doesn't seem to do anything)
-# python3 -m ipykernel install --user --name=nlp-e23
+# python3 -m ipykernel install --user --name=myenv_nlp23
 
 # # install requirements (this doesn't seem to work either because it can't access the files)
 # pip install -r /Users/pernillebrams/Desktop/AARHUS_UNIVERSITY/kandidat/nlp/NLP-AU-23/requirements.txt
