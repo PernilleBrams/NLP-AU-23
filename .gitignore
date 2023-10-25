@@ -153,6 +153,7 @@ backups/*
 >>>>>>> a4ae3396c0f74bb0fa96e078669e839155fa3da2
 requirements.txt
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> a4ae3396c0f74bb0fa96e078669e839155fa3da2
 =======
 >>>>>>> 993bfcf520fbb8a2a622e63d6caab3fd9d462781
@@ -164,3 +165,7 @@ models/*
 # Ignore new venv
 myenv_nlp23
 
+=======
+*model.pt
+# 
+>>>>>>> 926c0a2ad823e6b360c6d431a191dd61d91b63b1
